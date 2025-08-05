@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate and curious **BSc.CSIT** student 
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: `nishankhareln@gmail.com`
+- 📧 Email: `nkharel57@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/nishankhareln](https://www.linkedin.com/in/nishankhareln)
 - 📝 Portfolio : [https://nishankharel.com.np/]
 
