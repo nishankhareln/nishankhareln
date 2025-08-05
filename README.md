@@ -13,9 +13,8 @@ Welcome to my GitHub profile! I'm a passionate and curious **BSc.CSIT** student 
 ---
 
 ### 💼 Professional Experience
-- 🔬 **Data Consultant** at [Namaste Institute](https://namasteinstitute.org)
-- 🧠 **AI/Data Intern Mentor** at **Mind Risers Tech**, guiding and mentoring interns in AI and Data projects
-
+- 🧠 **AI/DataScientist ** at **Mind Risers Tech**, learning , guiding and mentoring interns in AI and Data projects
+- - 🔬 **Data Consultant** at [Namaste Institute](https://namasteinstitute.org)
 ---
 
 ### 🤝 Looking to Collaborate On
@@ -29,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate and curious **BSc.CSIT** student 
 ### 📫 How to Reach Me
 - 📧 Email: `nishankhareln@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/nishankhareln](https://www.linkedin.com/in/nishankhareln)
-- 📝 Portfolio/Blog (coming soon...)
+- 📝 Portfolio : [https://nishankharel.com.np/]
 
 ---
 
