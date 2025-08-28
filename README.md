@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate and curious **BSc.CSIT** student 
 ---
 
 ### 💼 Professional Experience
-- 🧠 **AI/DataScientist ** at **Mind Risers Tech**, learning , guiding and mentoring interns in AI and Data projects
+- 🧠 **AI/DataScientist ** at **Mind Risers Tech**,handling project based on AI and model creation and model building, learning , guiding and mentoring interns in AI and Data projects
 - - 🔬 **Data Consultant** at [Namaste Institute](https://namasteinstitute.org)
 ---
 
