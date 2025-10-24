@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Nishan Kharel (@nishankhareln)
 
-Welcome to my GitHub profile! I'm a passionate and curious **BSc.CSIT** student who’s diving deep into the world of **Data Science**, **Machine Learning**, and **Software Development**.
+Welcome to my GitHub profile! I'm a passionate and curious **BSc.CSIT** student who’s diving deep into the world of  **AI Engineer** **Data Science**, **Machine Learning**, and **Software Development**.
 
 ---
 
