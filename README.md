@@ -13,18 +13,20 @@ Welcome to my GitHub profile! I'm a passionate and curious **BSc.CSIT** student 
 ---
 
 ### 💼 Professional Experience
-- 🧠 **AI/DataScientist ** at **Mind Risers Tech**,handling project based on AI and model creation and model building, learning , guiding and mentoring interns in AI and Data projects
+- 🧠 **AI/DataScientist ** at **Mind Risers Tech**
+         - handling project based on AI and model creation and model building, learning , guiding and mentoring interns in AI and Data projects
+         - Created a  model for Nepali News for classifying fake or real based on the news generated from backend
+         - Created a model for Recruit Nepal ATS score and Resume parsing using NER spacy Model and using sentence Transformers and BERT model.
+          - Prompt Engineering for creation of Job Description for Recruit Nepal dashboard .
 - - 🔬 **Data Consultant** at [Namaste Institute](https://namasteinstitute.org)
+            -Guiding student project such as Machine learning project like Image Classifier , fake real video prediciton and classification
+            - Mentor student in OOP related concept of C++ and python.
+            - Mentor in database strucuture using Postgres , MySQL and Oracle .
 ---
 
 ### 🤝 Looking to Collaborate On
-- Data Science & Machine Learning projects
-- Open Source tools or platforms
-- AI-powered backend systems (FastAPI, LangChain, etc.)
-- Educational platforms using Python or LLMs
-
----
-
+    -Research and Development and focus more on development and product design.
+    
 ### 📫 How to Reach Me
 - 📧 Email: `nkharel57@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/nishankhareln](https://www.linkedin.com/in/nishankhareln)
