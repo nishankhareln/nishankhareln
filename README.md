@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate and curious **BSc.CSIT** student 
          - Created a  model for Nepali News for classifying fake or real based on the news generated from backend
          - Created a model for Recruit Nepal ATS score and Resume parsing using NER spacy Model and using sentence Transformers and BERT model.
           - Prompt Engineering for creation of Job Description for Recruit Nepal dashboard .
-- - 🔬 **Data Consultant** at [Namaste Institute](https://namasteinstitute.org)
+-  🔬 **Data Consultant** at [Namaste Institute](https://namasteinstitute.org)
             -Guiding student project such as Machine learning project like Image Classifier , fake real video prediciton and classification
             - Mentor student in OOP related concept of C++ and python.
             - Mentor in database strucuture using Postgres , MySQL and Oracle .
